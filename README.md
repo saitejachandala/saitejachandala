@@ -57,7 +57,7 @@
   <img align="left" alt="Github" width="40px" 
   src="https://img.icons8.com/fluent/144/000000/github.png"/> 
   <img align="left" alt="React.js" width="40px" 
-  src="https://img.icons8.com/color/144/000000/react.png"/>
+  src="[https://img.icons8.com/color/144/000000/react.png](https://icons8.com/icon/bzf0DqjXFHIW/react)"/>
   
 
   <br />
